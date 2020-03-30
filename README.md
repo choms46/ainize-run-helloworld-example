@@ -1,5 +1,7 @@
 [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team/ainize-run-helloworld-example)
 
+[![Edit on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://dev.ide.ainize.ai/#/https://github.com/ainize-team/ainize-run-helloworld-example)
+
 # Hello World Example
 This application simply shows 'Hello World' on a web browser.
 
